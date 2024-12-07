@@ -42,6 +42,7 @@ The Report Comprises of 2 Pages
 - Sales Overview
 ![](sales_overview.PNG)
 - Regional Analysis
+![](regional_report.PNG)
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/bb616d57-f2b9-4262-ab91-ddc788618c83/ReportSection?experience=power-bi)
 ---
 ## 📈 Insights
