@@ -46,8 +46,8 @@ The Report Comprises of 2 Pages
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/bb616d57-f2b9-4262-ab91-ddc788618c83/ReportSection?experience=power-bi)
 ---
 ## 📈 Insights
-- The most profitable product category is Computers.
-- The highest revenue is generated from the Kebbi State.
+- The most profitable product category is **Computers**.
+- The highest revenue is generated from the **Kebbi State**.
 - [Add 1-2 more insights derived from the dashboard.]
 
 ---
