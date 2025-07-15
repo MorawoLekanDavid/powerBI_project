@@ -18,7 +18,7 @@ This project analyses Coca-Cola’s beverage sales performance using a real-worl
 
 ## 📁 Table of Contents
 
-- [Project Objective](#🎯-project-objective)
+- [Project Objective](##🎯-project-objective)
 - [Dataset Details](#📊-dataset-details)
 - [Tools Used](#🛠-tools-used)
 - [Analysis Workflow](#🔍-analysis-workflow)
