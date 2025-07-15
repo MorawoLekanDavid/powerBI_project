@@ -1,6 +1,6 @@
 # 🥤 Coca-Cola Sales & Operating Profit Performance Report
 
-A detailed analytical report on Coca-Cola’s sales and operating profit across U.S. retailers, regions, and time periods — conducted using Microsoft Excel. This project offers business insights, data visualisations, and actionable recommendations.
+A detailed analytical report on Coca-Cola’s sales and operating profit across U.S. retailers, regions, and time periods — conducted using Power BI. This project offers business insights, data visualisations, and actionable recommendations.
 
 ---
 
@@ -50,10 +50,12 @@ To evaluate Coca-Cola’s sales and profit trends across different dimensions an
 ---
 
 ## 🛠 Tools Used
-
-- **Microsoft Excel**
-  - Pivot Tables
-  - Charts & Dashboards
+- **Microsoft Excel [Download here](https://www.microsoft.com)**
+  - Pivot tables
+- **Microsoft Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)**
+  - Power Query
+  - DAX
+  - Visuals
 
 ---
 
@@ -78,7 +80,7 @@ To evaluate Coca-Cola’s sales and profit trends across different dimensions an
 ## 📈 Key Insights
 
 - **Top Retailers:** Walmart and CVS contributed over 50% of total sales.
-- **Top States:** California and Texas led in both sales and profits.
+- **Top States:** New York and Californai led in both sales and profits.
 - **Seasonality:** Summer months saw the highest sales volumes and profit spikes.
 - **Delivery Trends:** USPS and FedEx had shorter average delivery times.
 - **Beverage Preference:** Coca-Cola was the highest-selling beverage.
@@ -87,12 +89,12 @@ To evaluate Coca-Cola’s sales and profit trends across different dimensions an
 
 ## 📊 Visualizations
 
-All visualisations were created using Microsoft Excel and are available in the Excel workbook:
+All visualisations were created using Microsoft Power BI:
 
 - 📉 **Line Charts** (Sales/Profit Trends by Month)
 - 📊 **Bar Charts** (Retailer Contributions)
 - 🗺️ **Regional Profit Distribution**
-- 🧁 **Pie Charts** (Beverage Distribution, Retailer Share)
+- 🧁 **Pie Charts** (Regonal Performance)
 
 ---
 
@@ -121,7 +123,7 @@ All visualisations were created using Microsoft Excel and are available in the E
 
 ## 👤 Author
 
-**[Your Name]**
+**[Olalekan Morawo]**
 
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
