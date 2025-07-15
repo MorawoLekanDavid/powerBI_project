@@ -125,7 +125,6 @@ All visualisations were created using Microsoft Power BI:
 
 **[Olalekan Morawo]**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- GitHub: [@MorawoLekanDavid](https://github.com/MorawoLekanDavid)
 
 ---
