@@ -18,15 +18,17 @@ This project analyses Coca-Cola’s beverage sales performance using a real-worl
 
 ## 📁 Table of Contents
 
-- [Project Objective](##🎯-project-objective)
-- [Dataset Details](#📊-dataset-details)
-- [Tools Used](#🛠-tools-used)
-- [Analysis Workflow](#🔍-analysis-workflow)
-- [Key Insights](#📈-key-insights)
-- [Visualizations](#📊-visualizations)
-- [Recommendations](#✅-recommendations)
-- [Limitations & Next Steps](#⚠️-limitations--next-steps)
-- [Author](#👤-author)
+- [Project Objective](#project-objective)
+- [Dataset Details](#dataset-details)
+- [Tools Used](#tools-used)
+- [Analysis Workflow](#analysis-workflow)
+- [Key Insights](#key-insights)
+- [Visualizations](#visualizations)
+- [How to Use](#How-to-Use)
+- [Recommendations](#recommendations)
+- [Limitations & Next Steps](#limitations--next-steps)
+- [Author](#author)
+
 
 ---
 
@@ -104,6 +106,10 @@ Here is a preview of the dashboard
 You can also interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/0a1f9150-6df9-4a31-b0c6-2dc6bd355905/06e2fc9cbe10d61b090a?experience=power-bi)
 ---
 
+## 📌 How to Use
+1. Download the `.pbix` file (if Power BI) or access the Tableau Public link.
+2. Explore the dashboard using filters and slicers for customized insights.
+   
 ## ✅ Recommendations
 
 - **Retail Strategy:** Focus marketing on Walmart & CVS.
