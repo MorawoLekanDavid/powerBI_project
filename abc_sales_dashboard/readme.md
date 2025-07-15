@@ -48,11 +48,9 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ## 📈 Insights
 - The most profitable product category is **Computers**.
 - The highest revenue is generated from the **Kebbi State**.
-- [Add 1-2 more insights derived from the dashboard.]
-
 ---
 ## 📌 How to Use
-1. Download the `.pbix` file (if Power BI) or access the Tableau Public link.
+1. Download the `.pbix` file (if Power BI) or access the power bi link.
 2. Explore the dashboard using filters and slicers for customized insights.
 
 ---
