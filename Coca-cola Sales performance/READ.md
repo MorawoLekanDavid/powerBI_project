@@ -97,7 +97,7 @@ All visualisations were created using Microsoft Power BI:
   
 Here is a preview of the dashboard
 
-![Coca-Cola Dashboard](dataset&Images/coke dashboard.png)
+![Coca-Cola Dashboard](/datasetImages/coke%20dashboard.PNG)
 
 You can also interact with the dashboard [here](https://app.powerbi.com/groups/me/reports/0a1f9150-6df9-4a31-b0c6-2dc6bd355905/06e2fc9cbe10d61b090a?experience=power-bi)
 ---
